@@ -1,0 +1,37 @@
+F:\数采组态下发工具\DownLoad2RouterKit\SysGreen\bin\Debug\SysGreen.dll
+F:\数采组态下发工具\DownLoad2RouterKit\SysGreen\bin\Debug\SysGreen.pdb
+F:\数采组态下发工具\DownLoad2RouterKit\SysGreen\obj\Debug\MotionSensor.baml
+F:\数采组态下发工具\DownLoad2RouterKit\SysGreen\obj\Debug\MotionSensor.g.cs
+F:\数采组态下发工具\DownLoad2RouterKit\SysGreen\obj\Debug\SysGreen_MarkupCompile.cache
+F:\数采组态下发工具\DownLoad2RouterKit\SysGreen\obj\Debug\SysGreen.g.resources
+F:\数采组态下发工具\DownLoad2RouterKit\SysGreen\obj\Debug\SysGreen.dll
+F:\数采组态下发工具\DownLoad2RouterKit\SysGreen\obj\Debug\SysGreen.pdb
+F:\数采组态下发工具\DownLoad2RouterKit\SysGreen\obj\Debug\ControlPanel.baml
+F:\数采组态下发工具\DownLoad2RouterKit\SysGreen\obj\Debug\ControlPanel.g.cs
+F:\数采组态下发工具\DownLoad2RouterKit\SysGreen\obj\Debug\TemperaMonitor.baml
+F:\数采组态下发工具\DownLoad2RouterKit\SysGreen\obj\Debug\TemperaMonitor.g.cs
+E:\myjob\C sharp\AvanlonDockDemo\SysGreen\bin\Debug\SysGreen.dll
+E:\myjob\C sharp\AvanlonDockDemo\SysGreen\bin\Debug\SysGreen.pdb
+E:\myjob\C sharp\AvanlonDockDemo\SysGreen\obj\Debug\TemperaPanel.baml
+E:\myjob\C sharp\AvanlonDockDemo\SysGreen\obj\Debug\MotionSensor.baml
+E:\myjob\C sharp\AvanlonDockDemo\SysGreen\obj\Debug\MonitorControl.baml
+E:\myjob\C sharp\AvanlonDockDemo\SysGreen\obj\Debug\TemperaPanel.g.cs
+E:\myjob\C sharp\AvanlonDockDemo\SysGreen\obj\Debug\MotionSensor.g.cs
+E:\myjob\C sharp\AvanlonDockDemo\SysGreen\obj\Debug\MonitorControl.g.cs
+E:\myjob\C sharp\AvanlonDockDemo\SysGreen\obj\Debug\SysGreen_MarkupCompile.cache
+E:\myjob\C sharp\AvanlonDockDemo\SysGreen\obj\Debug\SysGreen.g.resources
+E:\myjob\C sharp\AvanlonDockDemo\SysGreen\obj\Debug\SysGreen.dll
+E:\myjob\C sharp\AvanlonDockDemo\SysGreen\obj\Debug\SysGreen.pdb
+D:\c plus\GraphicDeviceKit\SysGreen\bin\Debug\SysGreen.dll
+D:\c plus\GraphicDeviceKit\SysGreen\bin\Debug\SysGreen.pdb
+D:\c plus\GraphicDeviceKit\SysGreen\obj\Debug\SysGreen.csprojResolveAssemblyReference.cache
+D:\c plus\GraphicDeviceKit\SysGreen\obj\Debug\DeviceBase\TemperaPanel.baml
+D:\c plus\GraphicDeviceKit\SysGreen\obj\Debug\DeviceBase\MotionSensor.baml
+D:\c plus\GraphicDeviceKit\SysGreen\obj\Debug\DeviceBase\MonitorControl.baml
+D:\c plus\GraphicDeviceKit\SysGreen\obj\Debug\DeviceBase\TemperaPanel.g.cs
+D:\c plus\GraphicDeviceKit\SysGreen\obj\Debug\DeviceBase\MotionSensor.g.cs
+D:\c plus\GraphicDeviceKit\SysGreen\obj\Debug\DeviceBase\MonitorControl.g.cs
+D:\c plus\GraphicDeviceKit\SysGreen\obj\Debug\SysGreen_MarkupCompile.cache
+D:\c plus\GraphicDeviceKit\SysGreen\obj\Debug\SysGreen.g.resources
+D:\c plus\GraphicDeviceKit\SysGreen\obj\Debug\SysGreen.dll
+D:\c plus\GraphicDeviceKit\SysGreen\obj\Debug\SysGreen.pdb
