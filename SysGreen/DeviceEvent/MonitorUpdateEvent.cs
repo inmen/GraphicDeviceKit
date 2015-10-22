@@ -5,7 +5,8 @@ using System.Text;
 
 namespace SysGreen.DeviceEvent
 {
-    class MonitorUpdateEvent:EventArgs
+    public class MonitorUpdateEvent:EventArgs
     {
+        bool isWindowOpen;
     }
 }

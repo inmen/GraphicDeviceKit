@@ -19,6 +19,7 @@ namespace SysGreen.DeviceBase
     /// </summary>
     public partial class TemperaMonitor : UserControl
     {
+        public EventHandler<DeviceEvent.MonitorUpdateEvent> updateInfo;
         public TemperaMonitor()
         {
             InitializeComponent();
