@@ -20,9 +20,19 @@ namespace SysGreen.DeviceBase
     public partial class TemperaMonitor : UserControl
     {
         public EventHandler<DeviceEvent.MonitorUpdateEvent> updateInfo;
+        private string address;
+        public readonly string description;
         public TemperaMonitor()
         {
             InitializeComponent();
+        }
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append("监控器 ");
+            sb.Append(address);
+            sb.Append(description);
+            return sb.ToString();
         }
     }
 }
