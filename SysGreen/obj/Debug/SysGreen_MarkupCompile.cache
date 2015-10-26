@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 
-31759529107
+371358
 
-61977852737
+8-1562304861
 121654848548
-DeviceBase\TemperaPanel.xaml;DeviceBase\MotionSensor.xaml;DeviceBase\MonitorControl.xaml;
+DeviceView\TemperaPanelView.xaml;DeviceView\MotionSensorView.xaml;DeviceView\MonitorControlView.xaml;
 
 False
 

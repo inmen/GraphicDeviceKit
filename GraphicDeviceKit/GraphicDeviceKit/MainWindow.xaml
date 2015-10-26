@@ -22,7 +22,7 @@
             </MenuItem>
 
             <MenuItem Header="编辑(_S)">
-                <MenuItem x:Name="miLeft" Header="LeftSide"/>
+                <MenuItem x:Name="miLeft" Header="导入图片" Click="imageLoad_Click"/>
                 <MenuItem x:Name="miRight" Header="RightSide"/>
                 <MenuItem x:Name="miTop" Header="TopSide"/>
                 <MenuItem x:Name="miBottom" Header="BottomSide"/>
@@ -80,7 +80,11 @@
                                 <avalon:LayoutDocumentPane x:Name="DocumentPane">
                                     <avalon:LayoutDocument Title="编辑区" IsSelected="True" ContentId="document">
                                         <DockPanel>
-                                            <Canvas x:Name="mEidtor" AllowDrop="True" DragOver="OnDragOver" Drop="OnDrop" Background="Aqua"/>
+                                            <Canvas x:Name="mEidtor" AllowDrop="True" DragOver="OnDragOver" Drop="OnDrop">
+                                                <Canvas.Background>
+                                                    <ImageBrush x:Name="backgroundImage" ImageSource="d:\test.jpg" />
+                                                </Canvas.Background>
+                                            </Canvas>
                                         </DockPanel>
                                     </avalon:LayoutDocument>
                                 </avalon:LayoutDocumentPane>
@@ -88,6 +92,7 @@
                             <avalon:LayoutAnchorablePaneGroup Orientation="Horizontal" DockHeight="150" FloatingWidth="300" FloatingHeight="193" FloatingLeft="684" FloatingTop="1026">
                                 <avalon:LayoutAnchorablePane DockHeight="470" FloatingWidth="300" FloatingHeight="193" FloatingLeft="684" FloatingTop="1026">
                                     <avalon:LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="信息列表" FloatingLeft="684" FloatingTop="1026" FloatingHeight="43"/>
+                                    
                                 </avalon:LayoutAnchorablePane>
                             </avalon:LayoutAnchorablePaneGroup>
                         </avalon:LayoutPanel>

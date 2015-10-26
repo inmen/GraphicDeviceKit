@@ -78,6 +78,11 @@ namespace GraphicDeviceKit
 
         }
 
+        private void imageLoad_Click(object sender, RoutedEventArgs e)
+        {
+            backgroundImage.ImageSource = new BitmapImage(new Uri(@"d:\demo.jpg"));
+        }
+
         private void AttachEvent()
         {
             mToolBox.PreviewMouseMove += OnPreviewToolBoxMouseMove;
